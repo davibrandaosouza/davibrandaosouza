@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Davi Brandão de Souza</h1>
 <h3 align="center">Computer Engineering student passionate about programming and technology.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
